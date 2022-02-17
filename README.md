@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RaffiZheng
-- 👀 I’m interested in Golang/ Python/ Data Analysis/ CS:GO
+- 👀 I’m interested in Golang/ Python/ Data Analysis/ Crypto
 - 🌱 I’m currently learning Go Web
 - 🌏 I want to work in Singapore/ Zurich/ ShenZhen
 - 📫 How to reach me: RaffiZheng@gmail.com
