@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaffiZheng
 - 👀 I’m interested in Golang/ Python/ Data Analysis
 - 🌱 I’m currently learning Go Web
-- 🌏 I want to work in ShenZhen/ Tokyo/ San Francisco 
+- 🌏 I want to work in Zurich/ Tokyo/ San Francisco 
 - 📫 How to reach me: RaffiZheng@gmail.com
 
 <!---
